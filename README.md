@@ -151,6 +151,14 @@ A professional Streamlit dashboard was developed as an additional visualization 
 | Streamlit Community Cloud | Dashboard deployment |
 
 ---
+## 👤 Author
+
+**Shubham Maity**  
+B.Tech Undergraduate in Artificial Intelligence & Machine Learning  
+
+Passionate about data analytics, data visualization, machine learning, and transforming raw data into meaningful insights.
+
+**Skills:** Python • SQL • Pandas • NumPy • Power BI • Streamlit • Data Visualization
 
 ## 📂 Repository Structure
 
@@ -163,3 +171,4 @@ Cognifyz-Restaurant-Data-Analysis/
 ├── Cognifyz_Dashboard_Data.csv
 ├── app.py
 └── requirements.txt
+
